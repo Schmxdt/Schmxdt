@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Schmxdt&show_icons=true&count_private=true&hide_border=true&title_color=0e2a45&icon_color=040E17&text_color=c9d1d9&bg_color=318CE7" alt="Airton Schmidt github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schmxdt&layout=compact&hide_border=true&title_color=318CE7&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schmxdt&layout=compact&hide_border=true&title_color=0e2a45&text_color=FF0000&bg_color=318CE7" />
 </div>
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Schmxdt&theme=gotham&hide_border=true&area=true) -->
