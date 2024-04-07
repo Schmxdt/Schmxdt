@@ -18,7 +18,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/)
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)](https://www.microsoft.com/en-us/microsoft-365)
 [![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)](https://www.adobe.com/products/photoshop.html)
-[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)](https://www.figma.com/){:target="_blank"}
+
 
 
 ### Current Study Focus
