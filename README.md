@@ -1,51 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=header"/>
+## Airton Schmidt's Portfolio
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=318CE7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Airton+Schmidt;I'm+19+years+old;I'm+from+Brasil;I+study+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### Hello, World! 🌎
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Schmxdt&show_icons=true&count_private=true&hide_border=true&title_color=0e2a45&icon_color=040E17&text_color=c9d1d9&bg_color=318CE7" alt="Airton Schmidt github stats" /> 
- <!-- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schmxdt&layout=compact&hide_border=true&title_color=0e2a45&text_color=FF0000&bg_color=318CE7" />
-</div> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=318CE7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Airton+Schmidt;I'm+20+years+old;I'm+from+Brasil;I+study+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Schmxdt&theme=gotham&hide_border=true&area=true) -->
+### Main Skills
+[![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)](https://angular.io/)
+[![SCSS](https://img.shields.io/badge/-SCSS-0D1117?style=for-the-badge&logo=SASS&labelColor=0D1117)](https://sass-lang.com/)
+[![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)](https://nodejs.org/)
+[![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)](https://www.php.net/)
+[![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)](https://www.cypress.io/)
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Schmxdt&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+### Tools
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)](https://github.com/)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)](https://www.microsoft.com/en-us/microsoft-365)
+[![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)](https://www.adobe.com/products/photoshop.html)
+[![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)](https://www.figma.com/)
 
-<!--<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>-->
-  
 
-### Main skills:
- <!-- ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp; -->
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-<!-- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; -->
-<!-- ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; -->
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-<!--![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp; -->
-
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-<!-- ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp; -->
-
-  
-### Studying in this moment:
+### Current Study Focus
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-<!-- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp; -->
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
- <!-- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Schmxdt}/count.svg" /></p> 
-<br></div> -->
-  
+### Contact Me
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=333&height=120&section=footer"/>
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/airton-schmidt-a38255243/) for collaboration opportunities or to learn more about my projects!
