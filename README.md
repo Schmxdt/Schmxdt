@@ -1,5 +1,5 @@
 ## Schmidt's Portfolio
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=318CE7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Airton+Schmidt;I'm+20+years+old;I'm+from+Brasil;I+study+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=318CE7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Airton+Schmidt;I'm+21+years+old;I'm+from+Brasil;I+study+web+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
   ### Skills
   [![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
